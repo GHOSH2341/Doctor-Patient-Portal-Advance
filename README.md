@@ -1,11 +1,13 @@
-# Doctor-Patient-Portal : Advance Java WebProject
-Doctor Patient Portal is an Advance Java Web Project. 
+# Advanced web portal for patient management.
+The Doctor-Patient Portal is a web-based application designed using advanced Java technologies. It allows seamless interaction between doctors and patients by providing features such as appointment booking, viewing patient records, and secure communication.
+
+ 
 
 # Technology used in this project: 
-Advance JAVA concepts like JSP, JSTL, Servlet, HTML, CSS, Boostrap 5, Fontawesome and MySQL
+Backend: Advanced Java (Servlets, JSP, JSTL)
+Frontend: HTML, CSS, Bootstrap 5, Font Awesome
+Database: MySQL
 
-# Project View: 
-Some Screenshots of this project are given below 
 
 # Home Page:
 
@@ -64,9 +66,5 @@ Some Screenshots of this project are given below
 # View list of appointment
 ![4 4 User view appointment](https://user-images.githubusercontent.com/91146041/205283053-6b00959a-a2b1-4285-a040-67e7c1bcbe2c.png)
 
-
-# Have a nice day 
-
-# Thank you for visiting my profile.
 
 
